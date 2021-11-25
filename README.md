@@ -6,4 +6,9 @@ O Blog do DAADS esteve online no endereço [https://daads.com.br/site/](https://
 
 | Título | Data | Assunto |
 | :--    |  :--: | :--:    |
-| [Bibliotecas Java que devemos conhecer para um código moderno 🚀](https://github.com/Camilotk/posts-daads/blob/main/bibliotecas-java-moderno.md) | Mon, 04 May 2020 21:30 | Java |
+| [5 conhecimentos que todo desenvolvedor deveria ter, mas a faculdade não ensina! 🧐](https://github.com/Camilotk/posts-daads/blob/main/mas-a-faculdade-nao-ensina.md) | Wed, 11 Mar 2020 15:30 | `Conhecimentos Gerais` |
+| [Ferramentas que todo programador Java deveria conhecer! ☕](https://github.com/Camilotk/posts-daads/blob/main/ferramentas-programador-java.md) | Mon, 20 Apr 2020 21:30 | `Java` |
+| [Bibliotecas Java que devemos conhecer para um código moderno 🚀](https://github.com/Camilotk/posts-daads/blob/main/bibliotecas-java-moderno.md) | Mon, 04 May 2020 21:30 | `Java` |
+| [Features modernas do Java que fazem toda diferença no código](https://github.com/Camilotk/posts-daads/blob/main/features-modernas-do-java.md) | Mon, 22 Feb 2021 14:30 | `Java` |
+| [Programação Mobile: Java e Objective-C, as linguagens nativas dos 📱](https://github.com/Camilotk/posts-daads/blob/main/mobile-java-objective-c.md) | Thu, 15 Apr 2021 15:50 | `Mobile` |
+
