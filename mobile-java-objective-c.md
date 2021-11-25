@@ -7,13 +7,20 @@ tags: ['Java', 'Mobile', 'Objective-c', 'Sistemas Operacionais']
 ---
 -->
 
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="./img/header_mobile.jpg">
+  </a>
+</p>
+
 # Programação Mobile: Java e Objective-C, as linguagens nativas dos 📱
 
 A área de desenvolvimento mobile está crescendo, hoje além da próspera área de desenvolvimento de aplicativos também temos a crescente necessidade do desenvolvimento de sites e web apps responsivos - que possam adaptar-se à diferentes tamanhos de telas, seja Desktop, Smartphone ou Tablet. **O que é uma linguagem nativa?** Todo o software foi desenvolvido em uma linguagem de programação, isso também aplica-se à sistemas operacionais. Segundo a ferramenta de _analytics_ do site do diretório cerca de 85% do nosso tráfego vem de navegadores _mobile_, isso indica que muito provavelmente você está lendo esse artigo no seu smarphone seja ele Android ou iOS, originalmente o Android foi escrito em Java e o iOS em Objective-C e por que isso é importante? Isso importa porque isso significa que essas linguagens são as que possuem melhor performance, estabilidade e experiência de usuário em suas respectivas plataformas além de ter o suporte das mesmas.
 
 * * *
 
-![](http://daads.com.br/site/wp-content/uploads/2020/05/imac-1999636_640-1-e1583974481264.png)
+![](./img/mobile_apple.png)
 
 Objective-C: A linguagem da Apple
 =================================
@@ -42,7 +49,9 @@ Ser um desenvolvedor de aplicativos nativos para Apple é um dos segmentos de ca
 
 Bem, apesar da linguagem de fato ser multiplataforma pragmaticamente para programar em Objective-C é necessário ter um computador com MacOS, isso por diversos motivos desde o fato da ferramenta xcode ser exclusiva para esse sistema quanto ser necessário compilar os programas em um sistema MacOS para que possam ser executados no MacOS ou iOS. Além disso, é muito raro encontrar material gratuito em português sobre a linguagem. Abaixo deixo o vídeo em Inglês do canal Lets Build That App ensinando um pouco do básico de Objective-C na prática. 
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">﻿</span>
+<a href="https://youtu.be/ADyiVY5wiVk" target="_blank">
+    <img src="./img/thumb_objc.png">
+</a>
 
 * * *
 
