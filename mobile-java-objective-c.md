@@ -1,9 +1,11 @@
+<!--
 ---
 title: 'Programação Mobile: Java e Objective-C, as linguagens nativas dos 📱'
 date: Thu, 15 Apr 2021 15:50:35 +0000
 draft: false
 tags: ['Java', 'Mobile', 'Objective-c', 'Sistemas Operacionais']
 ---
+-->
 
 # Programação Mobile: Java e Objective-C, as linguagens nativas dos 📱
 
