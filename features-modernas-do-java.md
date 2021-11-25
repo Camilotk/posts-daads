@@ -1,9 +1,11 @@
+<!--
 ---
 title: 'Features modernas do Java que fazem toda diferença no código'
 date: Mon, 22 Feb 2021 14:30:10 +0000
 draft: false
 tags: ['Iniciantes', 'Java']
 ---
+-->
 
 # Features modernas do Java que fazem toda diferença no código
 
