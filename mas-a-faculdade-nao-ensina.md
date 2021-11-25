@@ -69,7 +69,7 @@ O controle de versão normalmente é feito por terminal, porém existem ferramen
 
 ### #4 Terminal
 
-![](./img/faculdade_terminal.jpg) 
+![](./img/faculdade_terminal.png) 
 
 Não importa o sistema operacional que você use você vai ter que cedo - ou tarde - aprender a utilizar o terminal. É impossível fugir uma vez em que os servidores onde vamos fazer o _deploy_ do código é operado por terminal, além de ser a melhor forma de automatizar tarefas e escrever scripts que interagem com o Sistema Operacional e dão "poderes" para que o programador possa utilizar seu conhecimento de programação para fazer operações muito além do que um usuário comum consegue fazer. Imagine a seguinte situação: você quer mover todos os arquivos - inclusive dentro de pastas - que comecem com a letra 'b'/'B' da sua pasta de downloads. Para isso você teria que clicar no explorer ou gerenciador de arquivos, ir até à pasta de downloads, checar cada arquivo selecionar os arquivos que começam com 'b'/'B' move-los e voltar para repetir o processo em cada pasta. Mas isso pode ser feito simplesmente por esse comando Bash:
 
