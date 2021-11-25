@@ -1,9 +1,11 @@
+<!--
 ---
 title: '5 conhecimentos que todo desenvolvedor deveria ter, mas a faculdade não ensina! 🧐'
 date: Wed, 11 Mar 2020 15:30:00 +0000
 draft: false
 tags: ['Bash', 'DevDocs', 'Docker', 'Documentação', 'Ferramentas', 'Git', 'GitHub', 'GitKraken', 'Inglês', 'Iniciantes', 'Kanban', 'Notion', 'Terminal', 'Trello', 'Virtualização', 'zsh']
 ---
+-->
 
 # 5 conhecimentos que todo desenvolvedor deveria ter, mas a faculdade não ensina! 🧐
 
