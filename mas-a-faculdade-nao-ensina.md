@@ -7,13 +7,19 @@ tags: ['Bash', 'DevDocs', 'Docker', 'Documentação', 'Ferramentas', 'Git', 'Git
 ---
 -->
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="./img/header_faculdade.jpg">
+  </a>
+</p>
+
 # 5 conhecimentos que todo desenvolvedor deveria ter, mas a faculdade não ensina! 🧐
 
 Isso mesmo! Apesar de a graduação de Análise e Desenvolvimento de Sistemas possuir muitos conteúdos voltados ao desenvolvimento de aplicativos - Algoritmos, Estruturas de Dados, Programação Orientada a Objetos... - muitas ferramentas que são vistas como requisitos básicos no mercado de desenvolvimento acabam não sendo vistas no decorrer da graduação, tanto por serem simples de aprender quanto por não haver tempo hábil no curso para ensinar conteúdos que não são vistos como essenciais, em contrapartida da atual formatação e estrutura em que o currículo foi construído. Fique calmo! Nesse post não vamos apenas falar sobre alguns desses conhecimentos, mas vamos também linkar uma série de vídeo e tutoriais sobre cada uma e no final também vamos divulgar alguns cursos que abordam de forma estruturada e organizada em um currículo pensado nos itens mais complexos. Recomendamos a todos que ainda não conhecem um ou outro desses itens que pesquise um pouco mais sobre ele e a quem não conhecer vários que considere os links abaixo para que possa aprender isso e muito mais e possa também estar atualizado com o que o mercado espera.
 
 ### #1 - Inglês
 
-![](http://daads.com.br/site/wp-content/uploads/2020/02/american-1209605_640-e1582580251501.jpg) 
+![](./img/faculdade_ingles.jpg) 
 
 Apesar de não ser uma ferramenta de programação em si, é o conhecimento mais importante que o desenvolvedor pode ter para dominar a ferramenta mais importante: a documentação. A maioria das documentações das linguagens de programação, livros, comunidades e conteúdos sobre desenvolvimento estão ou inicialmente estavam em Inglês. Nesse último ponto é importante também lembrar que boas traduções para português no mercado editorial envolvem muito mais que uma simples tradução - envolvem revisores, diagramadores, designers… - o que faz muitas vezes com que o tempo de publicação de um novo material em português seja longo, muitas vezes o conteúdo acaba desatualizado quando a publicação está finalmente pronta para o mercado e já existe um novo material mais atualizado disponível… em Inglês. Além disso, não somente os comandos de programação são escritos em Inglês, mas também as mensagens e erros das linguagens estão em idioma estrangeiro. 
 
@@ -29,7 +35,7 @@ Essa é uma ferramenta que não é tão conhecida e nem tão essencial, porém f
 
 ### #2 Kanban
 
-![](http://daads.com.br/site/wp-content/uploads/2020/02/business-4051773_640-e1582582239831.jpg) 
+![](./img/faculdade_kanban.jpg) 
 
 A **gestão de tarefas** é uma das partes de ferramentas de **gestão de projetos** - que envolve mais do que tarefas -, porém praticamente todas as metodologias modernas de **gestão de projetos** utilizam o Kanban como ferramenta de **gestão de tarefas**.  Temos alguns conteúdos como gestão de projetos que dão um _overview_ sobre a ferramenta, porém dificilmente ela recebe a atenção necessária para que de fato entendamos sua importância e utilização. O Kanban não só divide as tarefas por fase de desenvolvimento como também ajuda o projeto a crescer de forma planejada com cada equipe ou desenvolvedor se concentrando em pequenas tarefas que compõe o todo e orquestram o resultado final de forma organizada. Na prática, todas as idéias de novas features são colocados em um quadro "Idéia", quando essa tarefa precisa ser feita ela passa para "A fazer" e então quando ela é atribuída a um Desenvolvedor que irá trabalhar nela ela vai para "Fazendo" e o nome de quem está desenvolvendo é marcado na tarefa, quando a tarefa é entregue ela passa para "Feito". Assim permitindo a visibilidade de cada tarefa, seu progresso e o que cada desenvolvedor está trabalhando ou fez.
 
@@ -45,7 +51,7 @@ Novamente uma ferramenta opcional e pouco conhecida que é bem bacana é o [Noti
 
 ### #3 Git
 
-![](http://daads.com.br/site/wp-content/uploads/2020/02/Git-Logo-1788C-e1582587327409.png) 
+![](./img/faculdade_git.png) 
 
 O git é a ferramenta de controle de versões dominante no mercado. Seu uso é tão importante que hoje é requisito na maioria das vagas de desenvolvimento em qualquer nível de conhecimento. Essencial no desenvolvimento de projetos em equipe e muito importante para que possamos ter o controle das alterações que fazemos no nosso código. E o que esse negócio de controle de versões significa? Significa que a ferramenta salva todo o histórico de alterações do projeto desde o início que cada desenvolvedor fez no código fonte, permitindo voltar o código a qualquer momento desde sua publicação, visualizar diferenças entre o código existente e o que está sendo enviado, integrar código de diferentes desenvolvedores - inclusive remotos - ao projeto e gerenciar o que foi feito em cada mudança do _software_. Além do git algumas empresas usam outras ferramentas de controle de versões como [CVS](https://www.nongnu.org/cvs/) ou [Mercurial](https://www.mercurial-scm.org/), porém mesmo com comandos diferentes os princípios de uso serão os mesmos. 
 
@@ -63,7 +69,9 @@ O controle de versão normalmente é feito por terminal, porém existem ferramen
 
 ### #4 Terminal
 
-![](http://daads.com.br/site/wp-content/uploads/2020/02/bash-161382_640.png) Não importa o sistema operacional que você use você vai ter que cedo - ou tarde - aprender a utilizar o terminal. É impossível fugir uma vez em que os servidores onde vamos fazer o _deploy_ do código é operado por terminal, além de ser a melhor forma de automatizar tarefas e escrever scripts que interagem com o Sistema Operacional e dão "poderes" para que o programador possa utilizar seu conhecimento de programação para fazer operações muito além do que um usuário comum consegue fazer. Imagine a seguinte situação: você quer mover todos os arquivos - inclusive dentro de pastas - que comecem com a letra 'b'/'B' da sua pasta de downloads. Para isso você teria que clicar no explorer ou gerenciador de arquivos, ir até à pasta de downloads, checar cada arquivo selecionar os arquivos que começam com 'b'/'B' move-los e voltar para repetir o processo em cada pasta. Mas isso pode ser feito simplesmente por esse comando Bash:
+![](./img/faculdade_terminal.jpg) 
+
+Não importa o sistema operacional que você use você vai ter que cedo - ou tarde - aprender a utilizar o terminal. É impossível fugir uma vez em que os servidores onde vamos fazer o _deploy_ do código é operado por terminal, além de ser a melhor forma de automatizar tarefas e escrever scripts que interagem com o Sistema Operacional e dão "poderes" para que o programador possa utilizar seu conhecimento de programação para fazer operações muito além do que um usuário comum consegue fazer. Imagine a seguinte situação: você quer mover todos os arquivos - inclusive dentro de pastas - que comecem com a letra 'b'/'B' da sua pasta de downloads. Para isso você teria que clicar no explorer ou gerenciador de arquivos, ir até à pasta de downloads, checar cada arquivo selecionar os arquivos que começam com 'b'/'B' move-los e voltar para repetir o processo em cada pasta. Mas isso pode ser feito simplesmente por esse comando Bash:
 
 ```bash
 $ cp -R /home/user/Downloads/[bB]* ~/localdacopia
@@ -94,7 +102,7 @@ Além do Linux o MAC também tinha o Bash como padrão até 2019 quando ele foi 
 
 ### #5 Virtualização
 
-![](http://daads.com.br/site/wp-content/uploads/2020/02/container-789488_640-e1582595997974.jpg) 
+![](./img/faculdade_virtualizacao.jpg) 
 
 Apesar de esta ser uma ferramenta que dificilmente é cobrada de um iniciante em programação é uma exigência para qualquer desenvolvedor pleno tanto quanto git e apesar de dificilmente ser cobrada de um iniciante ela é bastante simples e intuitiva de aprender, além de resolver um monte de problemas de desenvolvimento, desde incompatibilidade entre diferentes máquinas até a separação das dependências entre diferentes projetos e é essencial em ambientes modernos de produção. Apesar de existirem muitas ferramentas que são capazes de criar um ambiente virtualizado as ferramentas mais utilizadas são o Docker e o Vagrant. O que essas ferramentas essencialmente fazem é emular um sistema operacional sem interface gráfica dentro do terminal do seu sistema operacional - literalmente um OS separado para o ambiente de programação com seus próprios programas e processos - sem ter o peso de uma interface gráfica ou pacotes que não são necessários para esse ambiente sendo uma emulação muito leve de um OS separado para cada projeto e o mais bacana é que esse OS além de não misturar as instalações e processos do projeto com seu computador também pode ser compartilhado com todos os desenvolvedores fazendo com que todos "desenvolvam na mesma máquina".
 
