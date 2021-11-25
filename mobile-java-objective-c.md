@@ -91,3 +91,7 @@ Apesar de Java estar perdendo espaço como a linguagem de programação mais pop
 ##### Show me the code
 
 Um grande motivo de discussões sobre o desenvolvimento de aplicativos nativos para Android, seja com Java ou seja com Kotlin é que para isso é necessário utilizar ferramentas como o Android SDK, Android Studio ou Eclipse e emuladores que rodam o SO do Android em virtualização o que não coloca nenhuma barreira de SO como no caso do Obj-C, mas que exige uma máquina mais robusta do que normalmente se utiliza no desenvolvimento de outras aplicações sendo recomendado para uma boa experiência que a máquina possua no mínimo 16GB de RAM, processador i5 ou superior e 2GB de memória de vídeo dedicada o que é algo que se deve levar em consideração antes de começar a programar para Android. Abaixo deixo um vídeo com um tutorial básico sobre como desenvolver um app "Hello World" para Android, para quem se interessar o mesmo canal, "Universidade Código" tem uma série feita em 2019 ensinando a desenvolver aplicativos nativos feitos em Java para o Android:
+
+<a href="https://youtu.be/jexUHjw3DTU" target="_blank">
+    <img src="./img/thumb_java.png">
+</a>
