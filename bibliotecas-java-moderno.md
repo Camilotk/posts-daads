@@ -7,7 +7,11 @@ tags: ['Apache Commons', 'Banco de Dados', 'bibliotecas', 'collections', 'GNU', 
 ---
 -->
 
-![](https://github.com/Camilotk/posts-daads/blob/main/img/header_bibliotecas.jpg)
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="./img/header_bibliotecas.jpg">
+  </a>
+</p>
 
 # Bibliotecas Java que devemos conhecer para um código moderno 🚀
 
