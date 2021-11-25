@@ -7,6 +7,12 @@ tags: ['Iniciantes', 'Java']
 ---
 -->
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="./img/header_ferramentas.jpg">
+  </a>
+</p>
+
 # Features modernas do Java que fazem toda diferença no código
 
 Continuando nossa série de matérias sobre Java onde já falamos de bibliotecas e ferramentas que todo desenvolvedor que programa em Java deveria conhecer, vamos agora das novidades que vieram desde o Java 8 em 2014 e que trouxeram diversas features muito modernas para a linguagem que tornam o código muito mais sucinto, legível e moderno. Muitas vezes a dor relacionada a programar em Java está diretamente ligada ao fato de a maioria do material e das aplicações Java que encontramos por aí está escrita em Java 7 ou anterior e utiliza formas arcaicas, mais verbosas e por vezes complicadas de resolver problemas que poderiam ser simplesmente resolvidos por utilizar alguma dessas novas funções. Muitas dessas novidades vieram por influência de outras linguagens, como as Lambda Functions, Streams e Inferência de Tipos que já era bastante comum em outras linguagens de programação como C++, Optionals e Records que vieram diretamente da influência que Kotlin teve para modernizar Java.
