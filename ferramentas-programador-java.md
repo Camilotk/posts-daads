@@ -7,6 +7,12 @@ tags: ['Ferramentas', 'Iniciantes', 'InteliJ', 'Java', 'Java', 'JetBrains', 'Lom
 ---
 -->
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="./img/header_note.jpg">
+  </a>
+</p>
+
 # Ferramentas que todo programador Java deveria conhecer! ☕
 
 Java é uma linguagem de programação que possui muita história e legado. Este ano a Linguagem completou os seus 25 anos de existência e em no mínimo 18 anos dessa história ela foi a linguagem de programação mais popular do mundo segundo o índice Tiobe \[[1](#link1)\]. Muito dessa popularidade deve-se a ser uma linguagem que trouxe a promessa de tornar a vida dos programadores mais fácil e produtiva através da Orientação a Objetos nos anos 2000 e a aderência do mercado corporativo a ela nos anos que se seguiram. Hoje muitos serviços modernos utilizam Java como linguagem principal de Back-end como Netflix \[[2](#link2)\], Uber \[[3](#link3)\] e Hotel? (Trivago \[[4](#link4)\]). Muito do que Java é conhecido é como uma linguagem velha, verbosa e difícil de usar e isso deve-se muito a não estarmos habituados a estudar práticas modernas de desenvolvimento em Java. Para que possamos explorar todo o poder da linguagem é necessário conhecer 3 coisas muito importantes - features recentes, ferramentas modernas e bibliotecas novas - vamos abordar cada um destes itens em posts futuros, mas por hoje vamos começar pelo que o Java mais se destaca: as ferramentas - _tooling_. Talvez esse seja o item que o Java mais é conhecido e admirado entre todas as linguagens, as melhores ferramentas de programação são desenvolvidas em Java e a linguagem possui ferramentas excelentes de desenvolvimento. Aqui vamos falar sobre apenas algumas e mais essenciais, mas se deseja tornar-se um programador Java em grandes empresas locais ou exteriores, recomendamos fortemente que se mantenha atento as novidades.
