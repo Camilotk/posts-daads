@@ -2,7 +2,7 @@
 
 Anteriormente: [https://daads.com.br/site/blog/](https://daads.com.br/site/blog/)
 
-O Blog do DAADS esteve online no endereço [https://daads.com.br/site/](https://daads.com.br/site/) de 2019 a 2021. Este repositório é dedicado a ser um backup dos posts que fiz durante esse período.
+O Blog do DAADS esteve online no endereço [https://daads.com.br/site/](https://daads.com.br/site/) de 2019 a 2021. Este repositório é dedicado a ser um backup dos posts que fiz durante esse período. Os posts são ou tem relação em maioria com `Java` justamente porque era a principal linguagem utilizada no Curso de Análise e Desenvolvimento de Sistemas (ADS) do Instituto Federal do Rio Grande do Sul (IFRS) durante o período (hoje Java foi substituído por JavaScript e TypeScript).
 
 | Título | Data | Assunto |
 | :--    |  :--: | :--:    |
