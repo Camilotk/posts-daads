@@ -1,9 +1,11 @@
+<!--
 ---
 title: 'Bibliotecas Java que devemos conhecer para um código moderno 🚀'
 date: Mon, 04 May 2020 21:30:14 +0000
 draft: false
 tags: ['Apache Commons', 'Banco de Dados', 'bibliotecas', 'collections', 'GNU', 'Google Guava', 'GSON', 'Iniciantes', 'Jackson', 'Java', 'Java', 'jooq', 'JSON', 'Lombok', 'Trove']
 ---
+-->
 
 # Bibliotecas Java que devemos conhecer para um código moderno 🚀
 
