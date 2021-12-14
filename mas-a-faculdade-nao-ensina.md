@@ -92,7 +92,7 @@ O Bash é a ferramenta mais utilizada e requisitada do mercado. Isso é devido �
 
 - **Para aprender Bash com a lenda**: [Curso de Shell com Julio Cezar (Papai do Shell)](https://hotm.art/bash) 
 - **Ou uma opção mais em conta**: [Linux 4Fasters - Shell do Básico ao avançado](https://www.udemy.com/course/shell-script-do-basico-ao-profissional/?referralCode=C8E1101FEF35452DB7BD) 
-**Cheatsheet** (_resumo dos comandos, em Inglês_):  [Cheatsheet](https://cheatography.com/gregcheater/cheat-sheets/bash/)
+- **Cheatsheet** (_resumo dos comandos, em Inglês_):  [Cheatsheet](https://cheatography.com/gregcheater/cheat-sheets/bash/)
 
 ###### #4.3 zsh
 
